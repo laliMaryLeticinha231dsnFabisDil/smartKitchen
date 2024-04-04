@@ -4,7 +4,7 @@ import { useState } from 'react'
 
 
 const alturaStatusBar = StatusBar.currentHeight
-const KEY_GPT = 'SUA_CHAVE';
+const KEY_GPT = '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';
 
 export default function App() {
 
