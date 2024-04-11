@@ -3,6 +3,9 @@ import { MaterialIcons } from '@expo/vector-icons';
 import { useState } from 'react'
 
 
+
+
+
 const alturaStatusBar = StatusBar.currentHeight
 const KEY_GPT = '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';
 
@@ -126,6 +129,7 @@ export default function App() {
         </View>
     );
 }
+
 
 const ESTILOS = StyleSheet.create({
     container: {
